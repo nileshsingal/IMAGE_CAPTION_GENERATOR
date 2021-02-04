@@ -37,6 +37,6 @@ LSTM picks part of image and maps to the appropriate word in the caption. An emb
 [Click here for Code](https://github.com/nileshsingal/IMAGE_CAPTION_GENERATOR/blob/master/Image_Captioning.py)  
   
   
-## Authors:  
+## Author:  
 - Nilesh Singal [NileshSingal](https://github.com/nileshsingal)
 
