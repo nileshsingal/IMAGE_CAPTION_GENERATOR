@@ -1,4 +1,4 @@
-## Team27-Image_captioning
+## Image_captioning
 # Image Caption Generator using Deep Learning
 Image captioning is a research area of Artificial Intelligence (AI) that deals with image understanding and a language description for that image. Image understanding needs to detect and recognize objects. It also needs to understand scene type or location, object properties and their interactions. Generating well-formed sentences requires both syntactic and semantic understanding of the language. In this project, a framework is developed leveraging the capabilities of artificial neural networks to “caption an image based on its significant features”.The generation process of image semantics not only understands the objects or scene recognition in the image, but also has the ability to analyze their states, understand the relationship among them and generate a correct sentence. The model would make use of Convolution neural networks to read image data and Long Short Term Memory (LSTM) for learning sentences/captions for image. The Flickr8K dataset is used to train the model.   
   
@@ -34,7 +34,7 @@ LSTM picks part of image and maps to the appropriate word in the caption. An emb
 ![cnn](https://user-images.githubusercontent.com/63635084/105346106-203a0100-5c0b-11eb-8d7d-3a1ea1679817.JPG)   
   
 ## Code:
-[Click here for Code](https://github.com/dhagesharayu/Team27-Image_captioning/blob/main/Image_Captioning.py)  
+[Click here for Code](https://github.com/nileshsingal/IMAGE_CAPTION_GENERATOR/blob/master/Image_Captioning.py)  
   
   
 ## Authors:  
