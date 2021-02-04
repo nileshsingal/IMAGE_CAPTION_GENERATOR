@@ -38,5 +38,5 @@ LSTM picks part of image and maps to the appropriate word in the caption. An emb
   
   
 ## Author:  
-- Nilesh Singal [NileshSingal](https://github.com/nileshsingal)
+- [NileshSingal](https://github.com/nileshsingal)
 
